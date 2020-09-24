@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2018-08-01'
+title: 'Data Center Administrator'
+company: 'Wipro Limited'
+location: 'Gurgaon, HR'
+range: 'Aug 2018 - Aug 2019'
+url: 'https://www.wipro.com/en-IN/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
