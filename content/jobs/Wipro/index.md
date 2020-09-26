@@ -7,6 +7,11 @@ range: 'Aug 2018 - Aug 2019'
 url: 'https://www.wipro.com/en-IN/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+▹ Migrated >2000 EOS servers from Windows Server 2003 & 2008 to Windows Server 2016 & 2019.
+▹ Upgraded old Cisco Wireless network to newer Aerohive Wireless Network.
+▹ Assisted in decommissioning of a Data Center with more than 850 Servers and network devices.
+▹ Increased team productivity by automating repetitive tasks related to server and network devices configuration and Provisioning.
+▹ Improved network availability & reliability by configuring dual uplink on network devices for redundancy.
+▹ Built a dashboard to monitor the health and resources consumption of servers.
+▹ Performed optimal provisioning, configuration and maintenance of servers.
+▹ Remediated Security risks by Installation of Security Patches/ Hotfixes released by OS/Application vendors across Servers.
