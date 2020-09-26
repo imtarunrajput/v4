@@ -3,7 +3,7 @@ date: '2018-01-09'
 title: 'IT Trainee'
 company: 'Delhi Metro Rail Corporation'
 location: 'Mayur Vihar, DEL'
-range: 'Jan 2018 - Mar 2018'
+range: 'January 2018 - March 2018'
 url: 'http://www.delhimetrorail.com'
 ---
 

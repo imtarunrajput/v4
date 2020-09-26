@@ -3,7 +3,7 @@ date: '2018-08-01'
 title: 'Data Center Administrator'
 company: 'Wipro Limited'
 location: 'Gurgaon, HR'
-range: 'Aug 2018 - Aug 2019'
+range: 'August 2018 - August 2019'
 url: 'https://www.wipro.com/en-IN/'
 ---
 
