@@ -7,5 +7,5 @@ range: 'Jan 2018 - Mar 2018'
 url: 'http://www.delhimetrorail.com'
 ---
 
-▹ Built an Employee Management Web App using PHP and JS.
-▹ Troubleshooting and provided Technical support for day to day technical issues.
+- Built an Employee Management Web App using PHP and JS.
+- Troubleshooting and provided Technical support for day to day technical issues.
